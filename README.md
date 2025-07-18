@@ -1,5 +1,5 @@
 # FUTURE_CS_01
-FUTURE_CS_01 📘JWT Forgery Exploit Report – OSWAP JUICE SHOP
+FUTURE_CS_01 📘Cracked Token, Cracked Security: Exploiting JWT Misuse in Juice shop
 
 📘 Project Overview
 
